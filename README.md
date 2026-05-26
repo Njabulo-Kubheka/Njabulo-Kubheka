@@ -1,6 +1,6 @@
 # Hi, I'm Njabulo Kubheka 👋
 
-Aspiring Data Analyst based in Cape Town, South Africa. BCom Information Systems student at the University of the Western Cape and Allan Gray Orbis Foundation Candidate Fellow.
+Data Analyst based in Cape Town, South Africa. BCom Information Systems student at the University of the Western Cape and Allan Gray Orbis Foundation Candidate Fellow.
 
 I work with data using SQL, Python, Pandas, Excel, and SAS — and I'm currently building toward my first junior data analyst role while completing my degree.
 
